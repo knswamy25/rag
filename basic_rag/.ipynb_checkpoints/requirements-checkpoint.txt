@@ -1,7 +1,0 @@
-langchain
-langchain_chroma
-langchain_community
-langchain_huggingface
-openai
-pypdf
-tiktoken
